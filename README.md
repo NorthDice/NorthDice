@@ -1,7 +1,17 @@
-## Hi there 👋
+## 👋 Hi! My name is Kiril
+
+### 🧑‍💻 I'm golang backend developer
+
+🎓 Studied [Software development](https://www.linkedin.com/school/national-aerospace-university/?originalSubdomain=ua) at the National Aerospace University
+🚀 Now practicing with microservice architecture and modern stack!
+
+[![Kiril's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthDice&theme=radical&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
-**NorthDice/NorthDice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️  You can contact me at [mister.balychev@gmail.com](mailto:mister.balychev@gmail.com)
 
 Here are some ideas to get you started:
 
