@@ -24,7 +24,6 @@
 ![Protobuf](https://img.shields.io/badge/-Protobuf-4EA94B?style=for-the-badge&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Unit testing](https://img.shields.io/badge/-Unit_testing-25A162?logo=testinglibrary&logoColor=white&style=for-the-badge)
-![React Hooks](https://img.shields.io/badge/-React_Hooks-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=for-the-badge&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADB5?style=for-the-badge&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-000000?style=for-the-badge&logoColor=white)
