@@ -33,29 +33,30 @@
 ### 🧪 I’m currently learning:
 - ⚙️ **Kubernetes (K8s)** for container orchestration
 - 🔁 **CI/CD pipelines** with **GitLab**
-- 📦 New Go frameworks:
+  
+#### 📦 New Go frameworks:
 - **Fiber** — Express-like web framework for Go
 - **Echo** — high performance, extensible, minimalist web framework
 - **Gin** — classic, very popular web framework
+- **Chi** — lightweight, idiomatic router great for microservices
   
 ### 🤝 I’m looking to collaborate on:
-- Cloud-native applications
-- Projects using new Stack
+- Cloud-native applications  
+- Projects using modern backend stacks (Go, Kafka, gRPC, MongoDB, etc.)  
+- Teams where I can:
+  - Expand my horizons as a backend developer  
+  - Continuously improve my skills and deepen technical knowledge  
+  - Contribute meaningfully while learning from experienced professionals  
+  - Become an integral part of a motivated, collaborative engineering culture  
 
+## 👨‍🚀 About Me
+
+I'm Kiril — a backend developer passionate about writing clean, efficient, and scalable code using Go.  
+
+With a background in software development from the National Aerospace University, I enjoy building systems that solve real-world problems and dive deep into backend technologies and architectures.
+
+💡 I’m always eager to learn new tools, share knowledge, and work in a team where innovation, mentorship, and quality are valued.
 
 🎓 Studied [Software development](https://www.linkedin.com/school/national-aerospace-university/?originalSubdomain=ua) at the National Aerospace University
 
-<!--
 ✉️  You can contact me at [mister.balychev@gmail.com](mailto:mister.balychev@gmail.com)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
